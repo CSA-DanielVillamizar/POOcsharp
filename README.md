@@ -160,7 +160,6 @@ El proyecto usa `appsettings.json` para cambiar el backend de datos y la estrate
 Proyecto educativo desarrollado como recurso docente para enseñar POO y patrones de diseño en C#.
 
 📍 Medellín, Colombia
-🏍️ Presidente de L.A.M.A. Medellín
 💼 Senior Consultant en SoftwareOne
 
 ---
