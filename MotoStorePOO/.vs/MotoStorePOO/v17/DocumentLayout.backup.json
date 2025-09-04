@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\lineapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\lineapedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\pricingstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\pricingstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\tarjetastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\tarjetastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\services\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\services\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\pricing\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\pricing\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\transferenciastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\transferenciastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\inventariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\inventariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\factorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\factorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\pagotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\pagotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}|MotoStorePOO.Tests\\MotoStorePOO.Tests.csproj|solutionrelative:motostorepoo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\pricing\\precioconivastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\pricing\\precioconivastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\pricing\\cuponporcentajestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\pricing\\cuponporcentajestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\pricing\\descuentovipstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\pricing\\descuentovipstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\pricing\\preciobasestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\pricing\\preciobasestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\patterns\\payments\\efectivostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\patterns\\payments\\efectivostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\common\\precios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\common\\precios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|c:\\users\\daniel.villamizar\\source\\repos\\motostorepoo\\motostorepoo\\domain\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}|MotoStorePOO\\MotoStorePOO.csproj|solutionrelative:motostorepoo\\domain\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcesadorPagos.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Services\\ProcesadorPagos.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Services\\ProcesadorPagos.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Services\\ProcesadorPagos.cs",
+              "RelativeToolTip": "MotoStorePOO\\Services\\ProcesadorPagos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:15:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\IPaymentStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:22:31.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarjetaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\TarjetaStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\TarjetaStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\TarjetaStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\TarjetaStrategy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:23:08.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\TarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\TarjetaCredito.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\TarjetaCredito.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:57:02.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingStrategyTests.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\PricingStrategyTests.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\PricingStrategyTests.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\PricingStrategyTests.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\PricingStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:44:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineaPedido.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\LineaPedido.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\LineaPedido.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\LineaPedido.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\LineaPedido.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:12:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\PaymentFactory.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\PaymentFactory.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\PaymentFactory.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\PaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:23:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\IPricingStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Pricing\\IPricingStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\IPricingStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Pricing\\IPricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:24:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Producto.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Producto.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Producto.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:27:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Program.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Program.cs",
+              "RelativeToolTip": "MotoStorePOO\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:19:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Pedido.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Pedido.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Pedido.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Pedido.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:22:46.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferenciaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\TransferenciaStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\TransferenciaStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\TransferenciaStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\TransferenciaStrategy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:23:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Transferencia.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Transferencia.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Transferencia.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:14:56.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventarioTests.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\InventarioTests.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\InventarioTests.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\InventarioTests.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\InventarioTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:42:24.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:47:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\FactoryTests.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\FactoryTests.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\FactoryTests.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\FactoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:43:30.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PagoTests.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\PagoTests.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\PagoTests.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\PagoTests.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\PagoTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:45:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MotoStorePOO.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:38:51.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrecioBaseStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\PrecioBaseStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Pricing\\PrecioBaseStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\PrecioBaseStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Pricing\\PrecioBaseStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:24:28.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DescuentoVipStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\DescuentoVipStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Pricing\\DescuentoVipStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\DescuentoVipStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Pricing\\DescuentoVipStrategy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:24:46.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CuponPorcentajeStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\CuponPorcentajeStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Pricing\\CuponPorcentajeStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\CuponPorcentajeStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Pricing\\CuponPorcentajeStrategy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:25:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PrecioConIvaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\PrecioConIvaStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Pricing\\PrecioConIvaStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Pricing\\PrecioConIvaStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Pricing\\PrecioConIvaStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:25:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\PaymentContext.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\PaymentContext.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\PaymentContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:23:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EfectivoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\EfectivoStrategy.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Patterns\\Payments\\EfectivoStrategy.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Patterns\\Payments\\EfectivoStrategy.cs",
+              "RelativeToolTip": "MotoStorePOO\\Patterns\\Payments\\EfectivoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:22:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Precios.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Common\\Precios.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Common\\Precios.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Common\\Precios.cs",
+              "RelativeToolTip": "MotoStorePOO\\Common\\Precios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:22:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Empleado.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Empleado.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Empleado.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:17:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Cliente.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Cliente.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:04:14.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Persona.cs",
+              "RelativeDocumentMoniker": "MotoStorePOO\\Domain\\Persona.cs",
+              "ToolTip": "C:\\Users\\daniel.villamizar\\source\\repos\\MotoStorePOO\\MotoStorePOO\\Domain\\Persona.cs",
+              "RelativeToolTip": "MotoStorePOO\\Domain\\Persona.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:33:07.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

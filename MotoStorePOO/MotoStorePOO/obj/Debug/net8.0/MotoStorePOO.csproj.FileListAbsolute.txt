@@ -1,0 +1,14 @@
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.AssemblyInfoInputs.cache
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.AssemblyInfo.cs
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.csproj.CoreCompileInputs.cache
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\bin\Debug\net8.0\MotoStorePOO.exe
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\bin\Debug\net8.0\MotoStorePOO.deps.json
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\bin\Debug\net8.0\MotoStorePOO.runtimeconfig.json
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\bin\Debug\net8.0\MotoStorePOO.dll
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\bin\Debug\net8.0\MotoStorePOO.pdb
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.dll
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\refint\MotoStorePOO.dll
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.pdb
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\MotoStorePOO.genruntimeconfig.cache
+C:\Users\daniel.villamizar\source\repos\MotoStorePOO\MotoStorePOO\obj\Debug\net8.0\ref\MotoStorePOO.dll

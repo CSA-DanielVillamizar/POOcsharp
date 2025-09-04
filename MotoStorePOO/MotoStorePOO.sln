@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoStorePOO", "MotoStorePOO\MotoStorePOO.csproj", "{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotoStorePOO.Tests", "MotoStorePOO.Tests\MotoStorePOO.Tests.csproj", "{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2FD265-33AD-48D7-AE6A-5A626FB38F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281B9F8A-6CB5-45C6-A8D9-A45BF974C386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB9DD56-5A73-48CD-92E1-44FB950D60F7}
+	EndGlobalSection
+EndGlobal
