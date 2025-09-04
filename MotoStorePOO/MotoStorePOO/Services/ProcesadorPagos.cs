@@ -1,49 +1,42 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MotoStorePOO.Common;
-using MotoStorePOO.Domain;
-using MotoStorePOO.Patterns.Payments;
-using MotoStorePOO.Pricing;
+using MotoStorePOO2.Common;
+using MotoStorePOO2.Domain;
 
-public class ProcesadorPagos
+namespace MotoStorePOO2.Services
 {
-    public Result Procesar(Pedido pedido, IMedioPago medio)
+    public class ProcesadorPagos
     {
-        if (pedido is null || medio is null) return Result.Fail("Datos de pago incompletos.");
-        var neto = pedido.Total;
-        var totalConIva = Precios.ConIVA(neto);
-
-        if (!medio.Autorizar(totalConIva))
-            return Result.Fail($"Pago NO autorizado con {medio.Descripcion} por {totalConIva.ToString("C")}");
-
-        medio.Capturar(totalConIva);
-        return Result.Success($"Pago exitoso con {medio.Descripcion} por {totalConIva.ToString("C")}");
-
-    }
-    public Result Procesar(Pedido pedido, IPaymentStrategy paymentStrategy, IEnumerable<IPricingStrategy> pricingPipeline)
-    {
-        if (pedido is null || paymentStrategy is null)
-            return Result.Fail("Datos de pago incompletos.");
-
-        // Aplicar pipeline de pricing
-        decimal total = pedido.Total;
-        if (pricingPipeline != null)
+        // Método Procesar
+        public Result Procesar(Pedido pedido, IMedioPago medio)
         {
-            foreach (var s in pricingPipeline)
-                total = s.Apply(total);
+            // Validación de Datos
+            if (pedido is null || medio is null)
+            {
+                return Result.Fail("Pedido o Medio de Pago no pueden ser nulos.");
+            }
+            // Calcular monto Total
+
+            var neto = pedido.Total;
+            var totalConIva = Precio.ConIva(neto);
+
+            // Intentar Autorizar el pago
+
+            if (!medio.Autorizar(totalConIva))
+            {
+                return Result.Fail($"Pago NO Autorizado con {medio.Descripcion}  por ${totalConIva:0.00}");
+            }
+            // Intentar Capturar el pago
+
+
+            medio.Capturar(totalConIva);
+
+            // Devolver éxito
+            return Result.Success(
+                $"Pago AUTORIZADO y CAPTURADO con {medio.Descripcion} por ${totalConIva:0.00}");
         }
-
-        // Usar contexto de pago (Strategy)
-        var ctx = new PaymentContext(paymentStrategy);
-        var r = ctx.Pagar(total);
-        return r.Ok
-            ? Result.Success($"Pago exitoso con {paymentStrategy.Descripcion} por {total.ToString("C")}")
-            : Result.Fail($"Pago NO autorizado con {paymentStrategy.Descripcion} por {total.ToString("C")}");
-
     }
 }
-
