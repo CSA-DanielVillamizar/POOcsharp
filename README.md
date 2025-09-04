@@ -171,7 +171,3 @@ Eres libre de usarlo, modificarlo y compartirlo con fines educativos y profesion
 
 ```
 
----
-
-¿Quieres que además te arme un **banner gráfico para el README** (estilo badges de GitHub y logo de MotoStore L.A.M.A.) para darle un look más profesional al repo?
-```
