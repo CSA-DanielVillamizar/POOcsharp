@@ -1,11 +1,14 @@
 
+# 🏍️ MotoStore — Ejemplo completo de POO en C\#
 
-```markdown
-# 🏍️ MotoStore — Ejemplo completo de POO en C#
+[![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet\&logoColor=white)](https://dotnet.microsoft.com/)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?logo=githubactions\&logoColor=white)](https://github.com/)
+[![Tests](https://img.shields.io/badge/tests-100%25-success?logo=xunit\&logoColor=white)](https://xunit.net/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow?logo=open-source-initiative\&logoColor=white)](LICENSE)
 
-Este proyecto es un **caso de estudio educativo** que implementa un sistema de gestión para una tienda ficticia de accesorios de moto (**MotoStore L.A.M.A.**) utilizando **Programación Orientada a Objetos (POO)** en C#.  
+Este proyecto es un **caso de estudio educativo** que implementa un sistema de gestión para una tienda ficticia de accesorios de moto (**MotoStore L.A.M.A.**) utilizando **Programación Orientada a Objetos (POO)** en C#.
 
-Fue diseñado para enseñar los **pilares de la POO**, aplicar **patrones de diseño (Factory, Strategy)**, manejar **repositorios de datos** (en memoria, JSON, base de datos con EF Core), y realizar pruebas automatizadas con **xUnit**.  
+Fue diseñado para enseñar los **pilares de la POO**, aplicar **patrones de diseño (Factory, Strategy)**, manejar **repositorios de datos** (en memoria, JSON, base de datos con EF Core), y realizar pruebas automatizadas con **xUnit**.
 
 El ejemplo crece paso a paso, desde clases simples hasta un sistema modular y extensible, simulando un escenario real de negocio.
 
@@ -13,45 +16,48 @@ El ejemplo crece paso a paso, desde clases simples hasta un sistema modular y ex
 
 ## 📚 Contenidos del proyecto
 
-- **Dominio POO**: Clases `Cliente`, `Empleado`, `Producto`, `Pedido`, `LineaPedido`.
-- **Pilares de POO**:
-  - Encapsulamiento
-  - Abstracción
-  - Herencia
-  - Polimorfismo
-- **Patrones de diseño**:
-  - **Factory** → creación de estrategias de pago y carga de productos desde CSV.
-  - **Strategy** → comportamientos variables:
-    - **Pagos** (Efectivo, Tarjeta, Transferencia).
-    - **Pricing** (Descuento VIP, Cupones, IVA).
-    - **Envío** (tarifa fija, por distancia, por peso).
-- **Repositorios intercambiables**:
-  - En memoria.
-  - Persistencia en **JSON**.
-  - Persistencia en **DB** con **EF Core (SQLite)**.
-- **Eventos**: notificación cuando el stock de un producto está bajo.
-- **Inyección de dependencias** con `Microsoft.Extensions.DependencyInjection`.
-- **Importación CSV**: carga masiva de productos desde un archivo.
-- **Pruebas unitarias** con **xUnit**.
+* **Dominio POO**: Clases `Cliente`, `Empleado`, `Producto`, `Pedido`, `LineaPedido`.
+* **Pilares de POO**:
+
+  * Encapsulamiento
+  * Abstracción
+  * Herencia
+  * Polimorfismo
+* **Patrones de diseño**:
+
+  * **Factory** → creación de estrategias de pago y carga de productos desde CSV.
+  * **Strategy** → comportamientos variables:
+
+    * **Pagos** (Efectivo, Tarjeta, Transferencia).
+    * **Pricing** (Descuento VIP, Cupones, IVA).
+    * **Envío** (tarifa fija, por distancia, por peso).
+* **Repositorios intercambiables**:
+
+  * En memoria.
+  * Persistencia en **JSON**.
+  * Persistencia en **DB** con **EF Core (SQLite)**.
+* **Eventos**: notificación cuando el stock de un producto está bajo.
+* **Inyección de dependencias** con `Microsoft.Extensions.DependencyInjection`.
+* **Importación CSV**: carga masiva de productos desde un archivo.
+* **Pruebas unitarias** con **xUnit**.
 
 ---
 
 ## 🛠️ Tecnologías
 
-- [.NET 8](https://dotnet.microsoft.com/)
-- **C# 12**
-- **xUnit** (pruebas)
-- **Entity Framework Core** (opcional para persistencia en DB)
-- **Microsoft.Extensions.DependencyInjection** (DI)
-- **System.Text.Json** (persistencia en JSON)
-- **CsvHelper** (opcional para CSV avanzado)
+* [.NET 8](https://dotnet.microsoft.com/)
+* **C# 12**
+* **xUnit** (pruebas)
+* **Entity Framework Core** (opcional para persistencia en DB)
+* **Microsoft.Extensions.DependencyInjection** (DI)
+* **System.Text.Json** (persistencia en JSON)
+* **CsvHelper** (opcional para CSV avanzado)
 
 ---
 
 ## 📂 Estructura de carpetas
 
 ```
-
 MotoStorePOO/
 ├── Common/              # Utilidades (Result, Precios, etc.)
 ├── Domain/              # Entidades del dominio (Cliente, Producto, Pedido, etc.)
@@ -65,8 +71,7 @@ MotoStorePOO/
 ├── MotoStorePOO.Tests/  # Proyecto de pruebas con xUnit
 ├── Program.cs           # Punto de entrada (demo)
 └── README.md
-
-````
+```
 
 ---
 
@@ -77,7 +82,7 @@ MotoStorePOO/
    ```bash
    git clone https://github.com/tuusuario/MotoStorePOO.git
    cd MotoStorePOO
-````
+   ```
 
 2. Restaurar dependencias y compilar:
 
@@ -169,5 +174,5 @@ Proyecto educativo desarrollado como recurso docente para enseñar POO y patrone
 Este proyecto se publica con la licencia **MIT**.
 Eres libre de usarlo, modificarlo y compartirlo con fines educativos y profesionales.
 
-```
+---
 
